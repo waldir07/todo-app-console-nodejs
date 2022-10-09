@@ -1,5 +1,7 @@
 # Notas:
 
+1.- Install dependencies using : npm install 
+
 Todo-app console program using NodeJS in the Backend 
 
 =======================
@@ -16,4 +18,4 @@ Todo-app console program using NodeJS in the Backend
   0. Salir
 
 
-1.- Use the first option to start creating a task list.
+2.- Use the first option to start creating a task list.
